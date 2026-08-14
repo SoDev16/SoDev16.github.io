@@ -1,0 +1,5 @@
+# Ce dépôt est publié sur GitHub Pages : on ne committe ni les photos de
+# référence ni les visuels générés.
+references/
+output/
+.env
