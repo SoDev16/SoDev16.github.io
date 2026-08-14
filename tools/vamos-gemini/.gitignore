@@ -1,0 +1,7 @@
+# Clé API — ne jamais versionner
+.env
+
+# Images générées
+output/
+
+__pycache__/
