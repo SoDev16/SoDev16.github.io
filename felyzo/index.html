@@ -1,0 +1,779 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Harnais Anti-Fugue pour Chat — FELYZO</title>
+    <meta
+      name="description"
+      content="Le harnais anti-fugue FELYZO : encolure à cordon bloquant qui se resserre si votre chat recule, poitrail en mesh respirant et laisse 127 cm incluse. Explorer ensemble, en toute sécurité."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Outfit:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./assets/style.css" />
+  </head>
+  <body>
+    <!-- ══ Barre d'annonce ══ -->
+    <div class="topbar">
+      <div class="wrap topbar__inner">
+        <span><svg class="ico" aria-hidden="true"><use href="#i-truck" /></svg> Livraison gratuite dès 49 €</span>
+        <span class="topbar__claim">Des chats plus heureux, des humains plus sereins 💚</span>
+        <span><svg class="ico" aria-hidden="true"><use href="#i-shield" /></svg> Satisfait ou remboursé 30 jours</span>
+      </div>
+    </div>
+
+    <!-- ══ En-tête ══ -->
+    <header class="header">
+      <div class="wrap header__inner">
+        <a class="logo" href="#">
+          <svg class="logo__mark" viewBox="0 0 48 48" aria-hidden="true">
+            <path
+              d="M8 6l7 7h18l7-7v14c0 12-7 21-16 22C15 41 8 32 8 20V6z"
+              fill="currentColor"
+            />
+            <circle cx="18" cy="21" r="2.6" fill="#fff" />
+            <circle cx="30" cy="21" r="2.6" fill="#fff" />
+            <path
+              d="M24 27l-3 2.5c0 2 1.4 3.2 3 3.2s3-1.2 3-3.2L24 27z"
+              fill="#fff"
+            />
+          </svg>
+          <span class="logo__text">
+            <strong>FELYZO</strong>
+            <em>Explorer ensemble</em>
+          </span>
+        </a>
+
+        <nav class="nav" aria-label="Navigation principale">
+          <a href="#">Accueil</a>
+          <a href="#produit">Nos produits</a>
+          <a href="#pourquoi">À propos</a>
+          <a href="#usages">Conseils</a>
+          <a href="#faq">Contact</a>
+        </nav>
+
+        <div class="header__actions">
+          <button class="iconbtn" type="button" aria-label="Rechercher">
+            <svg class="ico" aria-hidden="true"><use href="#i-search" /></svg>
+          </button>
+          <button class="iconbtn" type="button" aria-label="Mon compte">
+            <svg class="ico" aria-hidden="true"><use href="#i-user" /></svg>
+          </button>
+          <button class="iconbtn iconbtn--cart" type="button" aria-label="Panier">
+            <svg class="ico" aria-hidden="true"><use href="#i-cart" /></svg>
+            <span class="cart-count" data-cart-count>0</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!-- ══ Fiche produit ══ -->
+      <section class="product" id="produit">
+        <div class="wrap product__grid">
+          <!-- Galerie -->
+          <div class="gallery">
+            <div class="gallery__main">
+              <img
+                src="./assets/img/hero-1.jpg"
+                alt="Chat portant le harnais anti-fugue FELYZO en extérieur"
+                data-gallery-main
+                width="1000"
+                height="1000"
+              />
+              <p class="gallery__script">
+                Explorer<br />Partager<br />Grandir<br />Ensemble
+                <svg class="gallery__heart" viewBox="0 0 24 24" aria-hidden="true">
+                  <path
+                    d="M12 20s-7-4.5-7-9.2A3.9 3.9 0 0 1 12 8a3.9 3.9 0 0 1 7 2.8C19 15.5 12 20 12 20z"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="1.6"
+                  />
+                </svg>
+              </p>
+              <div class="gallery__stamp">
+                <span>Des chats plus heureux<br />Des humains plus sereins</span>
+              </div>
+            </div>
+            <div class="gallery__thumbs" role="group" aria-label="Autres visuels">
+              <button class="is-active" type="button" data-thumb="./assets/img/hero-1.jpg">
+                <img src="./assets/img/hero-1.jpg" alt="Vue 1" />
+              </button>
+              <button type="button" data-thumb="./assets/img/hero-2.jpg">
+                <img src="./assets/img/hero-2.jpg" alt="Vue 2" />
+              </button>
+              <button type="button" data-thumb="./assets/img/hero-3.jpg">
+                <img src="./assets/img/hero-3.jpg" alt="Vue 3" />
+              </button>
+              <button type="button" data-thumb="./assets/img/hero-4.jpg">
+                <img src="./assets/img/hero-4.jpg" alt="Vue 4" />
+              </button>
+            </div>
+          </div>
+
+          <!-- Informations -->
+          <div class="info">
+            <div class="info__top">
+              <span class="tag tag--gold">★ BEST-SELLER</span>
+              <span class="rating">
+                <span class="rating__stars" aria-hidden="true">★★★★★</span>
+                <strong>4,8/5</strong>
+                <span class="muted">(1 250 avis)</span>
+              </span>
+            </div>
+
+            <h1>Harnais Anti-Fugue<br />pour Chat</h1>
+            <p class="info__baseline">La liberté d'explorer, la sécurité en plus.</p>
+
+            <p class="info__desc">
+              Un harnais confortable, léger et sécurisé, conçu pour les chats
+              curieux. Son <strong>encolure à cordon bloquant</strong> se resserre
+              doucement si votre chat tente de reculer : il reste bien en place,
+              même chez les plus grands évadés. Idéal pour les promenades, les
+              voyages et les aventures du quotidien.
+            </p>
+
+            <ul class="pills">
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-shield" /></svg>
+                Système anti-fugue
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-leaf" /></svg>
+                Confortable et léger
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-gear" /></svg>
+                Entièrement réglable
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-moon" /></svg>
+                Laisse 127 cm incluse
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-mesh" /></svg>
+                Respirant en mesh
+              </li>
+            </ul>
+
+            <div class="choice">
+              <p class="choice__label">
+                Couleur : <strong data-color-label>Noir</strong>
+              </p>
+              <div class="swatches" role="radiogroup" aria-label="Couleur">
+                <button
+                  class="swatch is-active"
+                  type="button"
+                  role="radio"
+                  aria-checked="true"
+                  data-color="Noir"
+                  style="--c1: #2b2b2b; --c2: #4a4a4a"
+                >
+                  <span class="sr-only">Noir</span>
+                </button>
+                <button
+                  class="swatch"
+                  type="button"
+                  role="radio"
+                  aria-checked="false"
+                  data-color="Rouge"
+                  style="--c1: #9e2b25; --c2: #c0463c"
+                >
+                  <span class="sr-only">Rouge</span>
+                </button>
+                <button
+                  class="swatch"
+                  type="button"
+                  role="radio"
+                  aria-checked="false"
+                  data-color="Turquoise"
+                  style="--c1: #1f7f85; --c2: #3aa3a8"
+                >
+                  <span class="sr-only">Turquoise</span>
+                </button>
+              </div>
+            </div>
+
+            <div class="choice">
+              <p class="choice__label">
+                Taille :
+                <button class="link" type="button" data-open-guide>
+                  Guide des tailles
+                </button>
+              </p>
+              <div class="sizes" role="radiogroup" aria-label="Taille">
+                <button class="size" type="button" role="radio" aria-checked="false" data-size="Chaton">
+                  Chaton<small>18–28 cm</small>
+                </button>
+                <button class="size is-active" type="button" role="radio" aria-checked="true" data-size="M">
+                  M<small>28–51 cm</small>
+                </button>
+                <button class="size" type="button" role="radio" aria-checked="false" data-size="L">
+                  L<small>51–69 cm</small>
+                </button>
+                <button class="size" type="button" role="radio" aria-checked="false" data-size="XL">
+                  XL<small>+ de 69 cm</small>
+                </button>
+              </div>
+              <p class="hint">
+                Mesurez le tour de poitrine, juste derrière les pattes avant.
+              </p>
+            </div>
+
+            <div class="price">
+              <span class="price__now">39,90 €</span>
+              <span class="price__was">59,90 €</span>
+              <span class="price__off">-33 %</span>
+            </div>
+
+            <button class="btn btn--main" type="button" data-add-to-cart>
+              <svg class="ico" aria-hidden="true"><use href="#i-cart" /></svg>
+              Ajouter au panier
+            </button>
+            <p class="added" data-added hidden>
+              Ajouté au panier : <strong data-added-label></strong>
+            </p>
+
+            <ul class="reassure">
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-truck" /></svg>
+                <span><strong>Livraison gratuite</strong><br />dès 49 €</span>
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg>
+                <span><strong>Paiement sécurisé</strong><br />100 % sécurisé</span>
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-back" /></svg>
+                <span><strong>Retour facile</strong><br />30 jours</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══ Bénéfices ══ -->
+      <section class="benefits">
+        <div class="wrap benefits__grid">
+          <div>
+            <svg class="ico ico--lg" aria-hidden="true"><use href="#i-leaf" /></svg>
+            <h3>Un chat plus heureux</h3>
+            <p>Il explore, se dépense, s'épanouit.</p>
+          </div>
+          <div>
+            <svg class="ico ico--lg" aria-hidden="true"><use href="#i-paw" /></svg>
+            <h3>Un lien plus fort</h3>
+            <p>Partagez de nouvelles aventures.</p>
+          </div>
+          <div>
+            <svg class="ico ico--lg" aria-hidden="true"><use href="#i-shield" /></svg>
+            <h3>Une tranquillité d'esprit</h3>
+            <p>Il reste en sécurité, même s'il recule.</p>
+          </div>
+          <div>
+            <svg class="ico ico--lg" aria-hidden="true"><use href="#i-tree" /></svg>
+            <h3>Pour toutes ses aventures</h3>
+            <p>En ville, en nature, en voyage.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══ Pourquoi FELYZO ══ -->
+      <section class="why" id="pourquoi">
+        <div class="wrap why__grid">
+          <div class="why__text">
+            <h2>Pourquoi choisir FELYZO ?</h2>
+            <p>
+              Chez FELYZO, nous croyons que chaque chat mérite d'explorer le monde
+              en toute sécurité. Nos harnais sont sélectionnés avec soin pour
+              offrir le meilleur équilibre entre confort, sécurité et liberté de
+              mouvement.
+            </p>
+            <ul class="why__list">
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-paw" /></svg>
+                <span><strong>Qualité sélectionnée</strong><br />avec soin</span>
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-check" /></svg>
+                <span><strong>Design moderne</strong><br />et élégant</span>
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-heart" /></svg>
+                <span><strong>Testé et approuvé</strong><br />par des amoureux des chats</span>
+              </li>
+              <li>
+                <svg class="ico" aria-hidden="true"><use href="#i-tree" /></svg>
+                <span><strong>Une marque engagée</strong><br />pour leur bien-être</span>
+              </li>
+            </ul>
+          </div>
+          <figure class="why__media">
+            <img
+              src="./assets/img/lifestyle-montagne.jpg"
+              alt="Personne en randonnée accompagnée de son chat en harnais"
+              width="900"
+              height="700"
+            />
+            <figcaption class="script">Explorer ensemble,<br />tout simplement.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- ══ Détails produit ══ -->
+      <section class="details">
+        <div class="wrap details__grid">
+          <div class="details__panel">
+            <h2>Des détails qui font la différence</h2>
+
+            <div class="diagram">
+              <svg viewBox="0 0 420 320" class="diagram__svg" role="img" aria-label="Schéma du harnais anti-fugue">
+                <defs>
+                  <pattern id="mesh" width="8" height="8" patternUnits="userSpaceOnUse">
+                    <path d="M0 4h8M4 0v8" stroke="#8fa47c" stroke-width="0.7" opacity="0.55" />
+                  </pattern>
+                </defs>
+                <!-- encolure -->
+                <path
+                  d="M150 52c22-14 74-14 96 0"
+                  fill="none"
+                  stroke="#3c5a41"
+                  stroke-width="11"
+                  stroke-linecap="round"
+                />
+                <rect x="186" y="34" width="24" height="17" rx="5" fill="#26402d" />
+                <circle cx="198" cy="42" r="3" fill="#cdd9c2" />
+                <!-- plastron mesh -->
+                <path
+                  d="M138 66c30-16 114-16 144 0 16 9 22 40 20 74-2 40-20 74-44 86-24 12-72 12-96 0-24-12-42-46-44-86-2-34 4-65 20-74z"
+                  fill="url(#mesh)"
+                  stroke="#3c5a41"
+                  stroke-width="6"
+                  stroke-linejoin="round"
+                />
+                <!-- ouverture pattes -->
+                <ellipse cx="172" cy="150" rx="22" ry="34" fill="#f6f3ea" stroke="#3c5a41" stroke-width="5" />
+                <ellipse cx="248" cy="150" rx="22" ry="34" fill="#f6f3ea" stroke="#3c5a41" stroke-width="5" />
+                <!-- sangle ventrale + boucle -->
+                <path d="M126 214h168" stroke="#2f4a36" stroke-width="12" stroke-linecap="round" />
+                <rect x="192" y="203" width="36" height="22" rx="6" fill="#1f3529" />
+                <path d="M200 214h20" stroke="#8fa47c" stroke-width="3" stroke-linecap="round" />
+                <!-- bandes réfléchissantes -->
+                <path d="M152 100h116" stroke="#cfe0bd" stroke-width="7" stroke-linecap="round" opacity="0.95" />
+                <path d="M160 192h100" stroke="#cfe0bd" stroke-width="7" stroke-linecap="round" opacity="0.95" />
+                <!-- anneau D -->
+                <path
+                  d="M198 84a12 12 0 0 1 24 0"
+                  fill="none"
+                  stroke="#1f3529"
+                  stroke-width="6"
+                  stroke-linecap="round"
+                />
+                <!-- laisse incluse, clipsée sur l'anneau en D -->
+                <path
+                  d="M228 74c52-16 104 4 134 54"
+                  fill="none"
+                  stroke="#2f4a36"
+                  stroke-width="5"
+                  stroke-linecap="round"
+                  stroke-dasharray="1 11"
+                />
+                <rect x="214" y="68" width="22" height="13" rx="5" fill="#1f3529" transform="rotate(-14 225 74)" />
+              </svg>
+
+              <ul class="callouts">
+                <li class="callout callout--a">
+                  <strong>Encolure à cordon bloquant</strong>
+                  <span>Se resserre doucement si le chat recule.</span>
+                </li>
+                <li class="callout callout--b">
+                  <strong>Plastron en mesh</strong>
+                  <span>Léger et respirant, même par temps chaud.</span>
+                </li>
+                <li class="callout callout--c">
+                  <strong>Anneau en D renforcé</strong>
+                  <span>Point d'attache placé haut sur le dos.</span>
+                </li>
+                <li class="callout callout--d">
+                  <strong>Boucles de réglage</strong>
+                  <span>Tour de poitrine ajustable au centimètre.</span>
+                </li>
+                <li class="callout callout--e">
+                  <strong>Laisse 127 cm incluse</strong>
+                  <span>Mousqueton métal rotatif 360°, anti-emmêlement.</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <figure class="details__media">
+            <img
+              src="./assets/img/detail-portrait.jpg"
+              alt="Gros plan du harnais porté par un chat"
+              width="800"
+              height="1000"
+            />
+            <figcaption class="script">La sécurité<br />lui va si bien.</figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- ══ Usages ══ -->
+      <section class="uses" id="usages">
+        <div class="wrap">
+          <h2>Parfait pour toutes ses aventures</h2>
+          <div class="uses__grid">
+            <article>
+              <img src="./assets/img/usage-promenade.jpg" alt="Chat en promenade" width="600" height="600" />
+              <div class="uses__body">
+                <svg class="ico" aria-hidden="true"><use href="#i-tree" /></svg>
+                <h3>Promenades</h3>
+                <p>Profitez de la nature en toute sécurité.</p>
+              </div>
+            </article>
+            <article>
+              <img src="./assets/img/usage-voyage.jpg" alt="Chat en sac de transport" width="600" height="600" />
+              <div class="uses__body">
+                <svg class="ico" aria-hidden="true"><use href="#i-truck" /></svg>
+                <h3>Voyages</h3>
+                <p>Idéal pour les déplacements et les vacances.</p>
+              </div>
+            </article>
+            <article>
+              <img src="./assets/img/usage-ville.jpg" alt="Chat en ville" width="600" height="600" />
+              <div class="uses__body">
+                <svg class="ico" aria-hidden="true"><use href="#i-search" /></svg>
+                <h3>En ville</h3>
+                <p>Explorez de nouveaux environnements.</p>
+              </div>
+            </article>
+            <article>
+              <img src="./assets/img/usage-quotidien.jpg" alt="Chat au jardin" width="600" height="600" />
+              <div class="uses__body">
+                <svg class="ico" aria-hidden="true"><use href="#i-heart" /></svg>
+                <h3>Au quotidien</h3>
+                <p>Un harnais pratique et confortable.</p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══ Communauté ══ -->
+      <section class="community">
+        <div class="wrap">
+          <h2>Rejoignez notre communauté</h2>
+          <p class="section-sub">
+            Des milliers de chats explorent déjà le monde avec FELYZO. Et le vôtre ?
+          </p>
+          <div class="community__grid">
+            <img src="./assets/img/communaute-1.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <img src="./assets/img/communaute-2.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <img src="./assets/img/communaute-3.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <img src="./assets/img/communaute-4.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <img src="./assets/img/communaute-5.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <img src="./assets/img/communaute-6.jpg" alt="Photo de la communauté" width="400" height="400" />
+            <a class="community__cta" href="#">
+              <svg class="ico ico--lg" aria-hidden="true"><use href="#i-insta" /></svg>
+              <span>Partagez vos aventures<br /><strong>#FELYZO</strong></span>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══ Avis ══ -->
+      <section class="reviews">
+        <div class="wrap">
+          <h2>Ils en parlent mieux que nous</h2>
+          <div class="reviews__grid">
+            <article class="review">
+              <img src="./assets/img/avis-1.jpg" alt="" width="200" height="200" />
+              <div>
+                <p class="stars" aria-label="5 sur 5">★★★★★</p>
+                <blockquote>
+                  « Parfait ! Mon chat ne s'est plus jamais enlevé le harnais.
+                  Très confortable et facile à mettre. »
+                </blockquote>
+                <p class="review__by">
+                  Sophie L. <span class="verified">✓ Achat vérifié</span>
+                </p>
+              </div>
+            </article>
+            <article class="review">
+              <img src="./assets/img/avis-2.jpg" alt="" width="200" height="200" />
+              <div>
+                <p class="stars" aria-label="5 sur 5">★★★★★</p>
+                <blockquote>
+                  « Nous faisons maintenant des promenades tous les week-ends.
+                  Une vraie liberté pour lui ! »
+                </blockquote>
+                <p class="review__by">
+                  Thomas R. <span class="verified">✓ Achat vérifié</span>
+                </p>
+              </div>
+            </article>
+            <article class="review">
+              <img src="./assets/img/avis-3.jpg" alt="" width="200" height="200" />
+              <div>
+                <p class="stars" aria-label="5 sur 5">★★★★★</p>
+                <blockquote>
+                  « Excellente qualité, le système anti-fugue est vraiment
+                  efficace. Je recommande ! »
+                </blockquote>
+                <p class="review__by">
+                  Camille D. <span class="verified">✓ Achat vérifié</span>
+                </p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- ══ FAQ ══ -->
+      <section class="faq" id="faq">
+        <div class="wrap faq__grid">
+          <div>
+            <h2>Questions fréquentes</h2>
+            <div class="accordion">
+              <details>
+                <summary>Le harnais est-il vraiment anti-fugue ?</summary>
+                <p>
+                  Oui. L'encolure se ferme par un cordon à bloqueur : si votre
+                  chat tente de reculer, elle se resserre doucement au lieu de
+                  s'ouvrir. Combinée aux sangles ventrales réglables, elle empêche
+                  le chat de se dégager par l'arrière.
+                </p>
+              </details>
+              <details>
+                <summary>Comment choisir la bonne taille ?</summary>
+                <p>
+                  Mesurez le tour de poitrine de votre chat, juste derrière les
+                  pattes avant. Chaton : 18–28 cm. M : 28–51 cm (la majorité des
+                  chats adultes). L : 51–69 cm. XL : au-delà, pour les grands
+                  gabarits type Maine Coon.
+                </p>
+              </details>
+              <details>
+                <summary>Mon chat va-t-il s'habituer facilement ?</summary>
+                <p>
+                  Procédez par étapes : laissez-lui découvrir le harnais, faites-lui
+                  porter quelques minutes à la maison avec une récompense, puis
+                  allongez progressivement. Comptez une à deux semaines avant la
+                  première sortie.
+                </p>
+              </details>
+              <details>
+                <summary>Le harnais convient-il aux chatons ?</summary>
+                <p>
+                  Oui, la taille Chaton est prévue pour les jeunes chats de moins
+                  d'un an (18 à 28 cm de tour de poitrine). Vérifiez régulièrement
+                  le réglage : un chaton grandit vite.
+                </p>
+              </details>
+              <details>
+                <summary>Puis-je le laver ?</summary>
+                <p>
+                  Lavage à la main à l'eau tiède avec un savon doux, puis séchage
+                  à l'air libre. Évitez le sèche-linge et l'eau de Javel, qui
+                  abîment le mesh et les sangles.
+                </p>
+              </details>
+              <details>
+                <summary>Qu'y a-t-il dans le colis ?</summary>
+                <p>
+                  Le harnais, une laisse de 127 cm équipée d'un mousqueton métal
+                  rotatif 360° anti-emmêlement, et un guide de démarrage rapide
+                  pour habituer votre chat en douceur.
+                </p>
+              </details>
+            </div>
+          </div>
+
+          <figure class="faq__media">
+            <img src="./assets/img/cta-aventure.jpg" alt="Chat en extérieur au printemps" width="1000" height="640" />
+            <figcaption>
+              <span class="script">De nouvelles<br />aventures<br />vous attendent !</span>
+              <a class="btn btn--main btn--sm" href="#produit">Ajouter au panier</a>
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- ══ Newsletter ══ -->
+      <section class="newsletter">
+        <div class="wrap newsletter__inner">
+          <div>
+            <h2>
+              <svg class="ico ico--lg" aria-hidden="true"><use href="#i-leaf" /></svg>
+              Rejoignez l'aventure FELYZO !
+            </h2>
+            <p>Recevez nos conseils, nos nouveautés et nos offres exclusives.</p>
+          </div>
+          <form class="newsletter__form" data-newsletter>
+            <label class="sr-only" for="email">Votre adresse e-mail</label>
+            <input id="email" type="email" placeholder="Votre adresse e-mail" required />
+            <button class="btn btn--main" type="submit">S'inscrire</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <!-- ══ Pied de page ══ -->
+    <footer class="footer">
+      <div class="wrap footer__grid">
+        <div class="footer__brand">
+          <a class="logo logo--light" href="#">
+            <svg class="logo__mark" viewBox="0 0 48 48" aria-hidden="true">
+              <path d="M8 6l7 7h18l7-7v14c0 12-7 21-16 22C15 41 8 32 8 20V6z" fill="currentColor" />
+              <circle cx="18" cy="21" r="2.6" fill="#1f3529" />
+              <circle cx="30" cy="21" r="2.6" fill="#1f3529" />
+              <path d="M24 27l-3 2.5c0 2 1.4 3.2 3 3.2s3-1.2 3-3.2L24 27z" fill="#1f3529" />
+            </svg>
+            <span class="logo__text">
+              <strong>FELYZO</strong>
+              <em>Explorer ensemble</em>
+            </span>
+          </a>
+          <p>Des chats plus heureux,<br />des humains plus sereins.</p>
+          <ul class="socials">
+            <li><a href="#" aria-label="Instagram"><svg class="ico" aria-hidden="true"><use href="#i-insta" /></svg></a></li>
+            <li><a href="#" aria-label="TikTok"><svg class="ico" aria-hidden="true"><use href="#i-paw" /></svg></a></li>
+            <li><a href="#" aria-label="Facebook"><svg class="ico" aria-hidden="true"><use href="#i-heart" /></svg></a></li>
+            <li><a href="#" aria-label="Pinterest"><svg class="ico" aria-hidden="true"><use href="#i-leaf" /></svg></a></li>
+            <li><a href="#" aria-label="YouTube"><svg class="ico" aria-hidden="true"><use href="#i-tree" /></svg></a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Navigation</h3>
+          <ul>
+            <li><a href="#">Accueil</a></li>
+            <li><a href="#produit">Nos produits</a></li>
+            <li><a href="#usages">Conseils</a></li>
+            <li><a href="#pourquoi">À propos</a></li>
+            <li><a href="#faq">Contact</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Aide</h3>
+          <ul>
+            <li><a href="#">Suivi de commande</a></li>
+            <li><a href="#">Livraison</a></li>
+            <li><a href="#">Retours et remboursements</a></li>
+            <li><a href="#faq">FAQ</a></li>
+            <li><a href="#">Nous contacter</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h3>Engagements</h3>
+          <ul class="footer__commit">
+            <li><svg class="ico" aria-hidden="true"><use href="#i-truck" /></svg> Livraison gratuite dès 49 €</li>
+            <li><svg class="ico" aria-hidden="true"><use href="#i-back" /></svg> Satisfait ou remboursé 30 jours</li>
+            <li><svg class="ico" aria-hidden="true"><use href="#i-lock" /></svg> Paiement 100 % sécurisé</li>
+            <li><svg class="ico" aria-hidden="true"><use href="#i-heart" /></svg> Une marque engagée</li>
+          </ul>
+          <p class="script footer__script">Merci de faire<br />partie de l'aventure !</p>
+        </div>
+      </div>
+
+      <div class="wrap footer__bottom">
+        <small>© 2026 FELYZO. Tous droits réservés.</small>
+        <nav aria-label="Liens légaux">
+          <a href="#">Mentions légales</a>
+          <a href="#">Politique de confidentialité</a>
+          <a href="#">Conditions générales de vente</a>
+        </nav>
+      </div>
+    </footer>
+
+    <!-- ══ Guide des tailles ══ -->
+    <dialog class="guide" data-guide>
+      <h2>Guide des tailles</h2>
+      <p>
+        Mesurez le <strong>tour de poitrine</strong> de votre chat, juste derrière
+        les pattes avant, sans serrer. En cas d'hésitation entre deux tailles,
+        prenez la plus grande : le harnais est entièrement réglable.
+      </p>
+      <table>
+        <thead>
+          <tr><th>Taille</th><th>Tour de poitrine</th><th>Pour qui ?</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Chaton</td><td>18 – 28 cm</td><td>Chatons de moins d'un an</td></tr>
+          <tr><td>M</td><td>28 – 51 cm</td><td>La majorité des chats adultes</td></tr>
+          <tr><td>L</td><td>51 – 69 cm</td><td>Grands chats</td></tr>
+          <tr><td>XL</td><td>+ de 69 cm</td><td>Maine Coon et gabarits XXL</td></tr>
+        </tbody>
+      </table>
+      <button class="btn btn--ghost" type="button" data-close-guide>Fermer</button>
+    </dialog>
+
+    <!-- ══ Icônes ══ -->
+    <svg style="display: none" aria-hidden="true">
+      <symbol id="i-truck" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 16V6h11v10M14 9h4l3 3v4h-7" />
+        <circle cx="7.5" cy="17.5" r="1.8" /><circle cx="17" cy="17.5" r="1.8" />
+      </symbol>
+      <symbol id="i-shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3l7 3v5.5c0 4.5-3 7.8-7 9.5-4-1.7-7-5-7-9.5V6l7-3z" />
+        <path d="M9 12l2.2 2.2L15.5 10" />
+      </symbol>
+      <symbol id="i-leaf" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 4c0 9-5 13-11 13H5c0-8 6-12 15-13z" /><path d="M5 20c2-5 5-8 9-10" />
+      </symbol>
+      <symbol id="i-gear" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="3.2" />
+        <path d="M12 3v2.2M12 18.8V21M3 12h2.2M18.8 12H21M5.6 5.6l1.6 1.6M16.8 16.8l1.6 1.6M18.4 5.6l-1.6 1.6M7.2 16.8l-1.6 1.6" />
+      </symbol>
+      <symbol id="i-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M20 14.5A8.5 8.5 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" />
+      </symbol>
+      <symbol id="i-mesh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+        <path d="M4 9h16M4 15h16M9 4v16M15 4v16" />
+      </symbol>
+      <symbol id="i-paw" viewBox="0 0 24 24" fill="currentColor">
+        <ellipse cx="12" cy="16" rx="4.6" ry="4" />
+        <circle cx="6.6" cy="10.6" r="2.1" /><circle cx="10" cy="7.4" r="2.1" />
+        <circle cx="14" cy="7.4" r="2.1" /><circle cx="17.4" cy="10.6" r="2.1" />
+      </symbol>
+      <symbol id="i-tree" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 3l5 7h-3l4 6H6l4-6H7l5-7zM12 16v5" />
+      </symbol>
+      <symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="4" y="4" width="16" height="16" rx="4" /><path d="M8.5 12.2l2.5 2.5 4.5-5" />
+      </symbol>
+      <symbol id="i-heart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 20s-7-4.4-7-9.2A3.9 3.9 0 0 1 12 8a3.9 3.9 0 0 1 7 2.8C19 15.6 12 20 12 20z" />
+      </symbol>
+      <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+        <circle cx="11" cy="11" r="6" /><path d="M15.5 15.5L20 20" />
+      </symbol>
+      <symbol id="i-user" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round">
+        <circle cx="12" cy="8.5" r="3.5" /><path d="M5 20c1.2-3.6 4-5.4 7-5.4s5.8 1.8 7 5.4" />
+      </symbol>
+      <symbol id="i-cart" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M3 4h2.2l2.3 10.4h9.6L19 7H6.2" />
+        <circle cx="9" cy="19" r="1.6" /><circle cx="17" cy="19" r="1.6" />
+      </symbol>
+      <symbol id="i-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="5" y="10" width="14" height="10" rx="3" /><path d="M8.5 10V7.8a3.5 3.5 0 0 1 7 0V10" />
+      </symbol>
+      <symbol id="i-back" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 11a8 8 0 1 1 2.4 5.7" /><path d="M4 5.5V11h5.5" />
+      </symbol>
+      <symbol id="i-insta" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+        <rect x="4" y="4" width="16" height="16" rx="5" /><circle cx="12" cy="12" r="3.6" />
+        <circle cx="16.6" cy="7.4" r="1.1" fill="currentColor" stroke="none" />
+      </symbol>
+    </svg>
+
+    <script src="./assets/app.js"></script>
+  </body>
+</html>
