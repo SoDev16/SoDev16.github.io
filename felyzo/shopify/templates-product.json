@@ -1,0 +1,1839 @@
+{
+  "sections": {
+    "hero": {
+      "type": "image-banner",
+      "blocks": {
+        "titre": {
+          "type": "heading",
+          "settings": {
+            "title": "Profitez de chaque sortie. Gardez l'esprit tranquille.",
+            "title_highlight_color": "#c58a55",
+            "heading_size": "h0"
+          }
+        },
+        "soustitre": {
+          "type": "text",
+          "settings": {
+            "text": "Avec FELYZO, offrez à votre chat le plaisir d'explorer tout en profitant d'un maintien enveloppant pensé pour des promenades plus sereines.",
+            "text_style": "body"
+          }
+        },
+        "bouton": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Découvrir FELYZO",
+            "button_link_1": "#shopify-section-main",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "titre",
+        "soustitre",
+        "bouton"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "image_1_visibility": "always-display",
+        "image_2_visibility": "always-display",
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "url": "",
+        "desktop_content_position": "middle-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "inverse",
+        "transparent_container_color": "white",
+        "mobile_content_alignment": "left",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "titre": {
+          "type": "title",
+          "settings": {
+            "text_size": "h1",
+            "title_alignment": "left",
+            "uppercase_title": false,
+            "margin_top": 0,
+            "margin_bottom": 6
+          }
+        },
+        "accroche": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#59635b",
+            "text_1": "Un maintien adapté pour des sorties plus sereines.",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 15,
+            "margin_bottom": 12
+          }
+        },
+        "descriptif_court": {
+          "type": "text",
+          "settings": {
+            "mobile_text_size": 14,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "text_color": "#203d2d",
+            "text_1": "Le harnais FELYZO accompagne votre chat dans ses sorties. Là où un harnais classique se relâche quand le chat recule, le coussinet poitrail se resserre légèrement sur ce mouvement au lieu de s'ouvrir. Trois points de réglage, anneaux en D métal, laisse incluse.",
+            "text_2": "",
+            "text_3": "",
+            "icon_scale": 120,
+            "icon_color": "#121212",
+            "icon_1": "",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "icon_3": "check_circle",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7",
+            "margin_top": 15,
+            "margin_bottom": 12
+          }
+        },
+        "args1": {
+          "type": "icon_with_text",
+          "settings": {
+            "layout": "vertical",
+            "icon_color": "accent-1",
+            "desktop_icon_size": 28,
+            "desktop_spacing": 12,
+            "desktop_text_size": 14,
+            "mobile_icon_size": 24,
+            "mobile_spacing": 10,
+            "mobile_text_size": 12,
+            "icon_1": "lock",
+            "icon_1_fill": false,
+            "heading_1": "Se resserre au recul",
+            "icon_2": "tune",
+            "icon_2_fill": false,
+            "heading_2": "3 points de réglage",
+            "icon_3": "favorite",
+            "icon_3_fill": false,
+            "heading_3": "Coussinet néoprène",
+            "margin_top": 12,
+            "margin_bottom": 6
+          }
+        },
+        "args2": {
+          "type": "icon_with_text",
+          "settings": {
+            "layout": "vertical",
+            "icon_color": "accent-1",
+            "desktop_icon_size": 28,
+            "desktop_spacing": 12,
+            "desktop_text_size": 14,
+            "mobile_icon_size": 24,
+            "mobile_spacing": 10,
+            "mobile_text_size": 12,
+            "icon_1": "link",
+            "icon_1_fill": false,
+            "heading_1": "Laisse incluse",
+            "icon_2": "hardware",
+            "icon_2_fill": false,
+            "heading_2": "Anneaux en D métal",
+            "icon_3": "air",
+            "icon_3_fill": false,
+            "heading_3": "Maille alvéolée",
+            "margin_top": 0,
+            "margin_bottom": 12
+          }
+        },
+        "tailles": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_types": "pills, pills, pills",
+            "custom_labels": "",
+            "skip_unavailable": false,
+            "swatches_size": "medium",
+            "swatches_custom_colors": "disabled",
+            "swatches_custom_colors_list": "#000000, #FFFFFF",
+            "full_width_dropdowns": false,
+            "breaks_style": "normal",
+            "breaks_headline": "BUNDLE & SAVE",
+            "breaks_display_selected_indicator": true,
+            "breaks_border_radius": 10,
+            "breaks_border_width": 2,
+            "breaks_color_scheme": "accent-1",
+            "breaks_badges": "[empty], Most popular, [empty]",
+            "breaks_badge_style": "1",
+            "breaks_badge_color": "accent-1",
+            "breaks_displayed_images": "none",
+            "breaks_custom_images": "",
+            "breaks_image_width": 70,
+            "breaks_space_images": true,
+            "breaks_vertical_images_position": "top",
+            "breaks_vertical_prices_layout": "vertical",
+            "breaks_labels": "[name], [name], [name]",
+            "breaks_benefits": "[empty], Free Shipping, Free Shipping",
+            "breaks_benefit_position": "top",
+            "breaks_benefit_style": "outlined",
+            "breaks_benefit_color": "accent-1",
+            "breaks_captions": "Variant 1 caption, Variant 2 caption, Variant 3 caption",
+            "breaks_price_texts": "[price], [price], [price]",
+            "breaks_compare_price_texts": "[compare_price], [compare_price], [compare_price]",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "guide": {
+          "type": "sizing_chart",
+          "settings": {
+            "test_mode": false,
+            "append": "option_1_label_container",
+            "button_label": "Guide des tailles",
+            "button_icon": "straighten",
+            "button_filled_icon": false,
+            "text_size": 17,
+            "button_alignment": "end",
+            "button_underline": true,
+            "headline": "Trouvez la taille adaptée à votre compagnon",
+            "heading_size": "h3",
+            "close_button_style": "minimalistic",
+            "color_scheme": "background-1",
+            "table_header_content": "Taille | Tour de poitrail",
+            "table_header_color_scheme": "inverse",
+            "table_content": "<p>Chaton | 18 – 28 cm</p><p>Adulte | 30 – 51 cm</p><p>Grand chat | 53 – 69 cm</p>",
+            "caption_text": "<p>Mesurez le tour de poitrail de votre chat juste derrière les pattes avant, sans serrer le mètre. En cas d'hésitation entre deux tailles, prenez la plus grande : les sangles se resserrent, elles ne s'allongent pas. Au-delà de 69 cm, nous ne recommandons pas ce harnais.</p>",
+            "caption_size": "1.45rem",
+            "caption_color": "#121212",
+            "caption_alignment": "left",
+            "margin_top": 15,
+            "margin_bottom": 15
+          }
+        },
+        "prix": {
+          "type": "price",
+          "settings": {
+            "layout": "price_first",
+            "price_color": "accent-1",
+            "compare_price_color": "text",
+            "displayed_badge": "sale",
+            "icon_scale": 140,
+            "custom_badge_text": "[icon_1] SPECIAL OFFER",
+            "icon_1": "redeem",
+            "filled_icon_1": false,
+            "icon_2": "check_circle",
+            "filled_icon_2": false,
+            "margin_top": 12,
+            "margin_bottom": 12
+          }
+        },
+        "achat": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "skip_cart": false,
+            "uppercase_text": false,
+            "icon_scale": 120,
+            "icon_spacing": 10,
+            "display_price": false,
+            "enable_custom_color": false,
+            "custom_color": "#dd1d1d",
+            "enable_secondary_btn": false,
+            "secondary_btn_label": "Buy It Now",
+            "secondary_btn_enable_custom_color": false,
+            "secondary_btn_custom_color": "#dd1d1d",
+            "margin_top": 6,
+            "margin_bottom": 12
+          }
+        },
+        "reassurance": {
+          "type": "shipping_checkpoints",
+          "settings": {
+            "icon_1": "local_shipping",
+            "filled_icon_1": false,
+            "top_text_1": "Livraison gratuite",
+            "bottom_text_1": "partout en France",
+            "min_days_1": 0,
+            "max_days_1": 0,
+            "icon_2": "lock",
+            "filled_icon_2": false,
+            "top_text_2": "Paiement sécurisé",
+            "bottom_text_2": "transaction chiffrée",
+            "min_days_2": 1,
+            "max_days_2": 2,
+            "icon_3": "assignment_return",
+            "filled_icon_3": false,
+            "top_text_3": "Retours",
+            "bottom_text_3": "sous 30 jours",
+            "min_days_3": 10,
+            "max_days_3": 12,
+            "icon_4": "support_agent",
+            "filled_icon_4": false,
+            "top_text_4": "Support client",
+            "bottom_text_4": "disponible",
+            "date_format": "mm_dd",
+            "days_labels": "Mon, Tue, Wed, Thu, Fri, Sat, Sun",
+            "months_labels": "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec",
+            "color_scheme": "background-2",
+            "margin_top": 24,
+            "margin_bottom": 24
+          }
+        },
+        "sticky": {
+          "type": "sticky_atc",
+          "settings": {
+            "function": "add_to_cart",
+            "display_when": "after_scroll",
+            "button_label": "Ajouter au panier",
+            "enable_custom_btn_color": false,
+            "custom_btn_color": "#dd1d1d",
+            "color_scheme": "background-1",
+            "star_color": "#ffcc00",
+            "stars_label": "(xxxx Reviews)",
+            "picker_type": "combined",
+            "desktop_show_image": false,
+            "desktop_show_title": true,
+            "desktop_rating_stars": false,
+            "desktop_show_price": true,
+            "desktop_show_sale_badge": true,
+            "desktop_variant_picker": false,
+            "desktop_full_button_width": false,
+            "desktop_show_price_in_button": false,
+            "desktop_transparent_bg": false,
+            "mobile_show_image": false,
+            "mobile_show_title": true,
+            "mobile_rating_stars": false,
+            "mobile_show_price": true,
+            "mobile_show_sale_badge": true,
+            "mobile_variant_picker": false,
+            "mobile_full_button_width": false,
+            "mobile_show_price_in_button": false,
+            "mobile_transparent_bg": false
+          }
+        },
+        "descriptif": {
+          "type": "description",
+          "settings": {
+            "margin_top": 18,
+            "margin_bottom": 24
+          }
+        }
+      },
+      "block_order": [
+        "titre",
+        "accroche",
+        "descriptif_court",
+        "args1",
+        "args2",
+        "tailles",
+        "guide",
+        "prix",
+        "achat",
+        "reassurance",
+        "sticky",
+        "descriptif"
+      ],
+      "settings": {
+        "display_id": false,
+        "enable_sticky_info": true,
+        "display_variant_image_first": false,
+        "disable_prepend": false,
+        "hide_variants": false,
+        "variant_image_filtering": "none",
+        "image_zoom": "lightbox",
+        "thumbnails_ratio": "square",
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "video_player": "play_btn",
+        "enable_video_looping": false,
+        "autoplay_videos_pause_btn": false,
+        "video_sound_btn": false,
+        "video_timeline": false,
+        "play_btn_color_scheme": "accent-1",
+        "sound_btn_color_scheme": "inverse",
+        "timeline_color": "accent-1",
+        "media_size": "large",
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "desktop_thumbnails_position": "bottom",
+        "desktop_thumbnails_count": 6,
+        "desktop_vertical_thumbnails_width": 16,
+        "desktop_vertical_thumbnails_hide_arrows": false,
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "desktop_arrows_position": "hidden",
+        "mobile_media_corner_radius": 12,
+        "mobile_spacing_pixels": 0,
+        "mobile_arrows_position": "sides",
+        "mobile_pagination": "dots_overlay",
+        "mobile_thumbnails_position": "hidden",
+        "mobile_thumbnails_count": 5,
+        "mobile_vertical_thumbnails_width": 22,
+        "mobile_vertical_thumbnails_hide_arrows": true,
+        "mobile_scroll_padding_percentage": 0,
+        "mobile_scroll_padding_pixels": 16,
+        "enable_mobile_outher_spacing": false,
+        "mobile_slides_container_width": 100,
+        "mobile_slides_inner_width": 100,
+        "trust_badge_position": "top-right",
+        "trust_badge_size": "medium",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 36,
+        "desktop_padding_bottom": 36
+      }
+    },
+    "emotionnel": {
+      "type": "image-with-text",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Vous voulez lui faire découvrir le monde. Vous voulez aussi rester serein.",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Les premières sorties peuvent être excitantes pour votre chat… et parfois stressantes pour vous. FELYZO a été pensé pour vous permettre de profiter pleinement de ces moments partagés, avec un harnais enveloppant, ajustable et adapté aux promenades.</p><p>Parce qu'une promenade réussie, c'est un chat qui explore et un propriétaire qui se sent en confiance.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "large",
+        "color_scheme": "background-2",
+        "section_color_scheme": "background-2",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 72,
+        "desktop_padding_bottom": 72,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "solution": {
+      "type": "icons-with-content",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "La sérénité commence avant même de sortir.",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Avec FELYZO, vous n'avez pas simplement un accessoire à enfiler. Vous disposez d'une solution pensée pour accompagner les sorties de votre chat et vous aider à vous sentir plus serein à chaque étape : au moment de l'équiper, pendant ses premiers pas dehors et tout au long de la promenade.</p>",
+            "text_style": "body"
+          }
+        },
+        "i1": {
+          "type": "icon",
+          "settings": {
+            "icon": "checklist",
+            "filled_icon": false,
+            "title": "Préparez vos sorties en toute confiance",
+            "text": "<p>Un harnais conçu pour être ajusté à la morphologie de votre chat et préparé facilement avant chaque promenade.</p>"
+          }
+        },
+        "i2": {
+          "type": "icon",
+          "settings": {
+            "icon": "favorite",
+            "filled_icon": false,
+            "title": "Profitez davantage du moment",
+            "text": "<p>Restez concentré sur votre compagnon, ses découvertes et les moments que vous partagez.</p>"
+          }
+        },
+        "i3": {
+          "type": "icon",
+          "settings": {
+            "icon": "explore",
+            "filled_icon": false,
+            "title": "Explorez ensemble, à votre rythme",
+            "text": "<p>Jardin, parc, terrasse, voyage ou nouvelle destination : accompagnez votre chat dans ses découvertes sous votre surveillance.</p>"
+          }
+        },
+        "img": {
+          "type": "image",
+          "settings": {
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t",
+        "i1",
+        "i2",
+        "i3",
+        "img"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "icon_size": "m",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "1-column",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "text_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "maintien": {
+      "type": "image-with-text",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Parce que votre tranquillité compte autant que son envie d'explorer.",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Un chat peut être curieux, imprévisible et particulièrement agile lorsqu'il découvre un nouvel environnement. C'est pourquoi le choix du harnais et son ajustement jouent un rôle essentiel dans la préparation d'une sortie.</p><p>FELYZO mise sur une forme enveloppante et des réglages adaptés pour accompagner votre chat pendant ses déplacements et vous offrir une expérience plus rassurante.</p>",
+            "text_style": "body"
+          }
+        },
+        "n": {
+          "type": "caption",
+          "settings": {
+            "caption": "Choisissez toujours la bonne taille, ajustez correctement les sangles et restez à proximité de votre chat pendant toute la promenade.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t",
+        "n"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "large",
+        "color_scheme": "background-2",
+        "section_color_scheme": "background-2",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 72,
+        "desktop_padding_bottom": 72,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "rassure": {
+      "type": "multicolumn",
+      "blocks": {
+        "r1": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Pensé pour le recul",
+            "text": "<p>Le coussinet poitrail se resserre légèrement quand le chat tire en arrière, au lieu de s'ouvrir.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "r2": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Trois points de réglage",
+            "text": "<p>Un cordon à stopper au cou et deux sangles latérales : le harnais suit sa croissance.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "r3": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Coussinet néoprène",
+            "text": "<p>Rembourré et hypoallergénique, il répartit la pression au lieu de scier le cou.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "r4": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Quincaillerie métal",
+            "text": "<p>Des anneaux en D métalliques, placés sur le coussinet pour qu'il garde toute son amplitude.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "r5": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Laisse incluse",
+            "text": "<p>Avec un mousqueton métal rotatif 360° qui ne vrille pas quand il tourne.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "r1",
+        "r2",
+        "r3",
+        "r4",
+        "r5"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Comment FELYZO vous rassure",
+        "title_highlight_color": "#294936",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "background-2",
+        "cards_corner_radius": 12,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "left",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 5,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 20,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "comparison_slider_3iAapF": {
+      "type": "comparison-slider",
+      "name": "Before & After slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Une nouvelle vie ensemble",
+        "title_highlight_color": "#1F3A2C",
+        "heading_size": "h1",
+        "text": "<p>Avant, la porte restait fermée. Aujourd'hui, la sortie est un moment partagé.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "layout": "slider_second",
+        "before_label": "Avant",
+        "after_label": "Avec FELYZO",
+        "labels_color_scheme": "accent-1",
+        "line_color": "background-1",
+        "arrows_style": "circle",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2E2A39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "image_slider_pq3F4R": {
+      "type": "image-slider",
+      "blocks": {
+        "image_slide_aXeJdD": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_akt4y3": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_W4Rymw": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        },
+        "image_slide_zBbgWE": {
+          "type": "image_slide",
+          "settings": {
+            "link": "",
+            "description": "",
+            "desc_alignment": "center",
+            "desc_color_scheme": "background-2"
+          }
+        }
+      },
+      "block_order": [
+        "image_slide_aXeJdD",
+        "image_slide_akt4y3",
+        "image_slide_W4Rymw",
+        "image_slide_zBbgWE"
+      ],
+      "name": "Image/Video Slider",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "FELYZO au quotidien",
+        "title_highlight_color": "#1F3A2C",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "type": "slide",
+        "drag": "enabled",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "center_mode": false,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": false,
+        "dots_color_scheme": "inverse",
+        "desktop_page_width": "normal",
+        "desktop_border_radius": 0,
+        "slides_desktop": 3,
+        "per_move_desktop": 1,
+        "desktop_spacing": 28,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "mobile_full_page": false,
+        "mobile_border_radius": 0,
+        "slides_mobile": 2,
+        "per_move_mobile": 1,
+        "mobile_spacing": 12,
+        "mobile_side_padding": 0,
+        "mobile_padding_calc": true,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "sides",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#FFFFFF",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#121212"
+      }
+    },
+    "product_features_4yAHgh": {
+      "type": "product-features",
+      "blocks": {
+        "hotspot_gXtRna": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 30,
+            "offset_y": 30,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "title": "Maintien du poitrail",
+            "text": "<p>Limite les mouvements permettant au chat de se dégager.</p>",
+            "alignment": "center"
+          }
+        },
+        "hotspot_ndXdmw": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 40,
+            "offset_y": 70,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "title": "Répartition de la pression",
+            "text": "<p>Le coussinet néoprène répartit la tension au lieu de scier le cou.</p>",
+            "alignment": "center"
+          }
+        },
+        "hotspot_hGY7Qh": {
+          "type": "hotspot",
+          "settings": {
+            "offset_x": 70,
+            "offset_y": 50,
+            "enable_mobile_position": false,
+            "mobile_offset_x": 30,
+            "mobile_offset_y": 30,
+            "title": "Attache sécurisée",
+            "text": "<p>Anneaux en D métalliques, solides et simples à utiliser.</p>",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_gXtRna",
+        "hotspot_ndXdmw",
+        "hotspot_hGY7Qh"
+      ],
+      "name": "Product features",
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Une meilleure tenue. Sans sacrifier le confort.",
+        "title_highlight_color": "#1F3A2C",
+        "heading_size": "h1",
+        "text": "<p>FELYZO enveloppe le poitrail de votre chat pour offrir un maintien plus stable pendant ses déplacements.</p>",
+        "button_label": "",
+        "link": "",
+        "button_style_secondary": false,
+        "atc_button_label": "",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "hide_content_on_mobile": false,
+        "mobile_content_position": "top",
+        "content_corner_radius": true,
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "desktop_image_width": "limited",
+        "image_max_width": 900,
+        "full_page_width": false,
+        "image_corner_radius": false,
+        "hotspot_open_event": "click",
+        "hotspots_color_scheme": "inverse",
+        "display_hotspots_animation": true,
+        "hotspot_content_color_scheme": "background-1",
+        "hotspot_image_size": "full",
+        "contain_hotspot_modal": false,
+        "hotspot_modal_desktop_width": 340,
+        "hotspot_modal_mobile_width": 200,
+        "bullet_points_color": "inverse",
+        "contain_bullet_points": false,
+        "bullet_point_desktop_width": 400,
+        "bullet_point_mobile_width": 60,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "custom_colors_background": "#2E2A39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#FFFFFF",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#FFFFFF",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "imaginez": {
+      "type": "image-with-text",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Et si les promenades devenaient votre nouveau moment préféré ?",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Imaginez votre chat découvrant calmement un jardin, observant les oiseaux depuis une terrasse ou explorant un nouvel endroit à vos côtés.</p><p>Vous avancez ensemble, à votre rythme. Il découvre. Vous accompagnez. Et vous profitez pleinement de ce moment.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "large",
+        "color_scheme": "background-2",
+        "section_color_scheme": "background-2",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 55,
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 72,
+        "desktop_padding_bottom": 72,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "situations": {
+      "type": "multicolumn",
+      "blocks": {
+        "s1": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Dans le jardin",
+            "text": "<p>Laissez votre chat découvrir les odeurs, les sons et les sensations de l'extérieur sous votre surveillance.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "s2": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Pendant les promenades",
+            "text": "<p>Accompagnez-le dans ses premières sorties ou dans ses promenades régulières.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "s3": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "En voyage",
+            "text": "<p>Gardez un accessoire pratique à portée de main pour les déplacements et les nouvelles destinations.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "s4": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "Lors de nouvelles expériences",
+            "text": "<p>Habituez progressivement votre chat à découvrir de nouveaux environnements avec vous.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "s1",
+        "s2",
+        "s3",
+        "s4"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Pour toutes vos sorties",
+        "title_highlight_color": "#294936",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-1",
+        "cards_color_scheme": "background-2",
+        "cards_corner_radius": 12,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "left",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 4,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 24,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "2",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "habituation": {
+      "type": "multicolumn",
+      "blocks": {
+        "e1": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "1. Il le découvre",
+            "text": "<p>Laissez votre chat découvrir le harnais à la maison, sans le lui mettre.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e2": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "2. Quelques minutes",
+            "text": "<p>Faites-lui porter quelques minutes à l'intérieur, dans un moment calme.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e3": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "3. Récompensez-le",
+            "text": "<p>Une friandise ou un moment de jeu, pour associer le harnais à quelque chose de positif.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e4": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "4. Allongez la durée",
+            "text": "<p>Augmentez progressivement le temps de port, sans jamais forcer.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "e5": {
+          "type": "column",
+          "settings": {
+            "muted_autoplay": true,
+            "title": "5. Une première sortie",
+            "text": "<p>Commencez par une sortie courte et calme, dans un endroit familier.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e1",
+        "e2",
+        "e3",
+        "e4",
+        "e5"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Chaque chat a son rythme",
+        "title_highlight_color": "#294936",
+        "heading_size": "h1",
+        "button_label": "",
+        "button_link": "",
+        "atc_button_label": "",
+        "atc_product": "",
+        "atc_skip_cart": false,
+        "color_scheme": "background-2",
+        "cards_color_scheme": "background-2",
+        "cards_corner_radius": 12,
+        "stretch_cards": false,
+        "stretched_cards_content_alignment": "center",
+        "image_width": "full",
+        "image_ratio": "square",
+        "media_position": "top",
+        "column_alignment": "left",
+        "desktop_heading_size": 24,
+        "mobile_heading_size": 22,
+        "desktop_text_size": 16,
+        "mobile_text_size": 15,
+        "desktop_text_top_margin": 10,
+        "mobile_text_top_margin": 10,
+        "desktop_container_padding_y": 24,
+        "desktop_container_padding_x": 24,
+        "mobile_container_padding_y": 24,
+        "mobile_container_padding_x": 24,
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 5,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 20,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "columns_mobile": "1",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 64,
+        "padding_bottom": 24,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_heading": "#222126",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "note_habituation": {
+      "type": "rich-text",
+      "blocks": {
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Certains chats sont immédiatement curieux, d'autres ont besoin de temps. Un chat habitué progressivement est généralement plus détendu pendant ses premières découvertes.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "t"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 0,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "pourquoi": {
+      "type": "icons-with-content",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Pourquoi choisir FELYZO ?",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>FELYZO s'adresse aux propriétaires qui souhaitent partager davantage de moments avec leur chat, en intérieur comme en extérieur. Nous sélectionnons des accessoires pensés pour être pratiques, confortables et simples à intégrer dans votre quotidien.</p><p>Notre objectif est de vous aider à préparer vos sorties avec plus de confiance, afin que vous puissiez vous concentrer sur l'essentiel : votre compagnon et les moments que vous partagez.</p>",
+            "text_style": "body"
+          }
+        },
+        "i1": {
+          "type": "icon",
+          "settings": {
+            "icon": "self_improvement",
+            "filled_icon": false,
+            "title": "Plus de sérénité pour le propriétaire",
+            "text": ""
+          }
+        },
+        "i2": {
+          "type": "icon",
+          "settings": {
+            "icon": "bolt",
+            "filled_icon": false,
+            "title": "Une expérience simple au quotidien",
+            "text": ""
+          }
+        },
+        "i3": {
+          "type": "icon",
+          "settings": {
+            "icon": "pets",
+            "filled_icon": false,
+            "title": "Des accessoires pensés pour les chats",
+            "text": ""
+          }
+        },
+        "i4": {
+          "type": "icon",
+          "settings": {
+            "icon": "group",
+            "filled_icon": false,
+            "title": "Des moments à partager ensemble",
+            "text": ""
+          }
+        },
+        "img": {
+          "type": "image",
+          "settings": {
+            "atc_product": "",
+            "atc_skip_cart": false
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t",
+        "i1",
+        "i2",
+        "i3",
+        "i4",
+        "img"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "color_scheme": "background-1",
+        "icon_size": "m",
+        "icon_position": "next-to-title",
+        "icon_color": "accent-1",
+        "icon_heading_size": "h3",
+        "icon_text_alignment": "left",
+        "icons_desktop_layout": "2-columns",
+        "icons_mobile_layout": "1-column",
+        "desktop_content_alignment": "left",
+        "layout": "image_first",
+        "mobile_layout": "text_first",
+        "hide_content_on_mobile": false,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "avis": {
+      "type": "testimonials",
+      "blocks": {
+        "a1": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p></p>",
+            "author": ""
+          }
+        },
+        "a2": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p></p>",
+            "author": ""
+          }
+        },
+        "a3": {
+          "type": "column",
+          "settings": {
+            "star_rating": 5,
+            "title": "",
+            "text": "<p></p>",
+            "author": ""
+          }
+        }
+      },
+      "block_order": [
+        "a1",
+        "a2",
+        "a3"
+      ],
+      "disabled": true,
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "title": "Ce qu'en disent nos clients",
+        "title_highlight_color": "#294936",
+        "heading_size": "h1",
+        "text": "",
+        "color_scheme": "background-2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "show_stars": true,
+        "inactive_stars_style": "solid",
+        "star_color": "#c58a55",
+        "bg_star_color": "#ececec",
+        "show_quotes": true,
+        "quotes_color_scheme": "accent-2",
+        "cards_color_scheme": "background-1",
+        "type": "slide",
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "arrows_color_scheme": "inverse",
+        "transparent_arrows": true,
+        "dots_color_scheme": "inverse",
+        "desktop_full_page": false,
+        "columns_desktop": 3,
+        "slider_desktop": false,
+        "per_move_desktop": 1,
+        "desktop_spacing": 40,
+        "desktop_side_padding": 0,
+        "desktop_padding_calc": true,
+        "desktop_adaptive_height": false,
+        "desktop_dots_position": "under",
+        "desktop_arrows_position": "sides",
+        "slider_mobile": true,
+        "enable_mobile_preview": false,
+        "mobile_adaptive_height": false,
+        "mobile_dots_position": "under",
+        "mobile_arrows_position": "under",
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_cards_colors_background": "#f3f3f3",
+        "custom_cards_gradient_background": "",
+        "custom_cards_colors_text": "#2e2a39"
+      }
+    },
+    "guide_tailles": {
+      "type": "image-with-text",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Trouvez la taille adaptée à votre compagnon",
+            "title_highlight_color": "#294936",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Mesurez le tour de poitrail de votre chat juste derrière les pattes avant, sans serrer le mètre, puis comparez la mesure au tableau.</p>",
+            "text_style": "body"
+          }
+        },
+        "i": {
+          "type": "text_with_icon",
+          "settings": {
+            "mobile_text_size": 15,
+            "desktop_text_size": 16,
+            "alignment": "left",
+            "mobile_alignment": "left",
+            "text_color": "#203d2d",
+            "text_1": "<strong>Chaton</strong> — tour de poitrail de 18 à 28 cm",
+            "text_2": "<strong>Adulte</strong> — tour de poitrail de 30 à 51 cm",
+            "text_3": "<strong>Grand chat</strong> — tour de poitrail de 53 à 69 cm",
+            "icon_scale": 120,
+            "icon_color": "#294936",
+            "icon_1": "straighten",
+            "filled_icon_1": false,
+            "icon_2": "straighten",
+            "filled_icon_2": false,
+            "icon_3": "straighten",
+            "filled_icon_3": false,
+            "width": "100%",
+            "direction": "vertical",
+            "column_gap": 3,
+            "enable_bg": false,
+            "bg_color": "#f3f3f3",
+            "corner_radius": 40,
+            "padding": 3,
+            "border_size": 0,
+            "border_color": "#b7b7b7"
+          }
+        },
+        "n": {
+          "type": "caption",
+          "settings": {
+            "caption": "Entre deux tailles, prenez la plus grande : les sangles se resserrent, elles ne s'allongent pas.",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t",
+        "i",
+        "n"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "video_autoplay": true,
+        "video_loop": true,
+        "height": "large",
+        "color_scheme": "background-1",
+        "section_color_scheme": "background-1",
+        "full_desktop_width": false,
+        "content_layout": "no-overlap",
+        "desktop_media_width": 50,
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_full_media_width": false,
+        "mobile_direction": "normal",
+        "mobile_image_quanlity": "2",
+        "mobile_content_alignment": "left",
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 16,
+        "desktop_padding_top": 72,
+        "desktop_padding_bottom": 72,
+        "custom_colors_background": "#2e2a39",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#ffffff",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d",
+        "custom_section_colors_background": "#ffffff",
+        "custom_section_gradient_background": ""
+      }
+    },
+    "faq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "f1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "FELYZO est-il adapté aux promenades ?",
+            "icon": "directions_walk",
+            "filled_icon": false,
+            "row_content": "<p>Oui. FELYZO est conçu pour accompagner les promenades et les découvertes en extérieur, sous la surveillance du propriétaire.</p>",
+            "page": ""
+          }
+        },
+        "f2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Est-ce que le harnais apporte un bon maintien ?",
+            "icon": "all_inclusive",
+            "filled_icon": false,
+            "row_content": "<p>Il est conçu pour le mouvement par lequel les chats s'échappent le plus souvent : le recul. Le coussinet poitrail se resserre au lieu de s'ouvrir, ce qui limite fortement le risque. Ses trois points de réglage permettent d'ajuster précisément le maintien — c'est ce qui fait la plus grande différence.</p>",
+            "page": ""
+          }
+        },
+        "f3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Mon chat n'a jamais porté de harnais. Est-ce possible ?",
+            "icon": "pets",
+            "filled_icon": false,
+            "row_content": "<p>Oui, mais commencez progressivement à la maison, avec des séances courtes et positives.</p>",
+            "page": ""
+          }
+        },
+        "f4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je sortir directement avec mon chat ?",
+            "icon": "schedule",
+            "filled_icon": false,
+            "row_content": "<p>Il est préférable de l'habituer d'abord au harnais dans un environnement calme.</p>",
+            "page": ""
+          }
+        },
+        "f5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Le harnais garantit-il qu'un chat ne pourra jamais se dégager ?",
+            "icon": "info",
+            "filled_icon": false,
+            "row_content": "<p>Aucun harnais ne peut garantir cela dans toutes les situations. Choisissez la bonne taille, ajustez correctement les sangles et surveillez toujours votre chat.</p>",
+            "page": ""
+          }
+        },
+        "f6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "La laisse est-elle incluse ?",
+            "icon": "link",
+            "filled_icon": false,
+            "row_content": "<p>Oui, une laisse est fournie avec le harnais, équipée d'un mousqueton métal rotatif 360°.</p>",
+            "page": ""
+          }
+        },
+        "f9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Que contient le colis ?",
+            "icon": "inventory_2",
+            "filled_icon": false,
+            "row_content": "<p>Un harnais FELYZO dans la taille choisie et une laisse assortie.</p>",
+            "page": ""
+          }
+        },
+        "f7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puis-je laisser mon chat attaché sans surveillance ?",
+            "icon": "visibility",
+            "filled_icon": false,
+            "row_content": "<p>Non. Un chat équipé d'un harnais doit rester sous surveillance.</p>",
+            "page": ""
+          }
+        },
+        "f8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Comment choisir la bonne taille ?",
+            "icon": "straighten",
+            "filled_icon": false,
+            "row_content": "<p>Mesurez le tour de poitrail juste derrière les pattes avant, puis comparez au guide des tailles. En cas d'hésitation entre deux tailles, prenez la plus grande : les sangles se resserrent, elles ne s'allongent pas.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "f1",
+        "f2",
+        "f3",
+        "f4",
+        "f5",
+        "f6",
+        "f9",
+        "f7",
+        "f8"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "caption": "QUESTIONS FRÉQUENTES",
+        "title": "Vos questions, nos réponses",
+        "title_highlight_color": "#294936",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "video_muted_autoplay": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "row_heading_size": "medium",
+        "collapse_icon": "plus",
+        "display_top_border": true,
+        "padding_top": 64,
+        "padding_bottom": 64,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_contaner_colors_background": "#ffffff",
+        "custom_container_gradient_background": "",
+        "custom_contaner_colors_text": "#2e2a39"
+      }
+    },
+    "cta_final": {
+      "type": "rich-text",
+      "blocks": {
+        "h": {
+          "type": "heading",
+          "settings": {
+            "title": "Le monde l'attend. Découvrez-le ensemble.",
+            "title_highlight_color": "#c58a55",
+            "heading_size": "h1"
+          }
+        },
+        "t": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Avec FELYZO, préparez vos sorties avec confiance et offrez à votre chat de nouvelles occasions d'explorer, d'observer et de découvrir à vos côtés.</p>"
+          }
+        },
+        "b": {
+          "type": "button",
+          "settings": {
+            "button_label": "Commencer l'aventure FELYZO",
+            "button_link": "#shopify-section-main",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "n": {
+          "type": "caption",
+          "settings": {
+            "caption": "Livraison gratuite partout en France · Paiement sécurisé · Retours sous 30 jours",
+            "text_style": "subtitle",
+            "text_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "h",
+        "t",
+        "b",
+        "n"
+      ],
+      "settings": {
+        "display_id": false,
+        "visibility": "always-display",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "accent-1",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39",
+        "custom_colors_solid_button_background": "#dd1d1d",
+        "custom_colors_solid_button_text": "#ffffff",
+        "custom_colors_outline_button": "#dd1d1d"
+      }
+    },
+    "video_demo": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "visibility": "always-display",
+        "title": "Regardez FELYZO en action",
+        "title_highlight_color": "#1F3A2C",
+        "heading_size": "h1",
+        "description": "Découvrez comment installer le harnais et voyez votre chat profiter de ses sorties en toute sérénité.",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rappel_offre": {
+      "type": "featured-product",
+      "settings": {
+        "visibility": "always-display",
+        "product": "harnais-felyzo-le-harnais-pense-pour-les-explorateurs",
+        "color_scheme": "background-2",
+        "media_size": "medium",
+        "media_position": "left",
+        "desktop_padding_top": 48,
+        "desktop_padding_bottom": 48,
+        "mobile_padding_top": 36,
+        "mobile_padding_bottom": 36
+      },
+      "blocks": {
+        "titre": {
+          "type": "title",
+          "settings": {}
+        },
+        "prix": {
+          "type": "price",
+          "settings": {}
+        },
+        "variantes": {
+          "type": "variant_picker",
+          "settings": {}
+        },
+        "achat": {
+          "type": "buy_buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "titre",
+        "prix",
+        "variantes",
+        "achat"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "main",
+    "emotionnel",
+    "solution",
+    "product_features_4yAHgh",
+    "maintien",
+    "rassure",
+    "video_demo",
+    "pourquoi",
+    "image_slider_pq3F4R",
+    "imaginez",
+    "comparison_slider_3iAapF",
+    "avis",
+    "situations",
+    "habituation",
+    "note_habituation",
+    "rappel_offre",
+    "guide_tailles",
+    "faq",
+    "cta_final"
+  ]
+}
