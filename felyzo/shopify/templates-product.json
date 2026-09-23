@@ -6,7 +6,7 @@
         "titre": {
           "type": "heading",
           "settings": {
-            "title": "Plus de liberté pour lui.<br>Plus de tranquillité pour vous.",
+            "title": "Plus de liberté pour lui. Plus de tranquillité pour vous.",
             "title_highlight_color": "#c58a55",
             "heading_size": "h0"
           }
@@ -474,7 +474,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Une meilleure tenue.<br>Sans sacrifier le confort.",
+            "title": "Une meilleure tenue. Sans sacrifier le confort.",
             "title_highlight_color": "#294936",
             "heading_size": "h1"
           }
@@ -908,7 +908,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Une meilleure tenue.<br>Sans sacrifier le confort.",
+        "title": "Une meilleure tenue. Sans sacrifier le confort.",
         "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "text": "<p>FELYZO enveloppe le poitrail de votre chat pour offrir un maintien plus stable pendant ses déplacements.</p>",
@@ -1640,7 +1640,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Le monde est grand.<br>Laissez-le le découvrir.",
+            "title": "Le monde est grand. Laissez-le le découvrir.",
             "title_highlight_color": "#c58a55",
             "heading_size": "h1"
           }
