@@ -489,7 +489,7 @@
         "i1": {
           "type": "icon",
           "settings": {
-            "icon": "checklist",
+            "icon": "lock",
             "filled_icon": false,
             "title": "Maintien du poitrail",
             "text": "<p>Il ne peut plus se dégager.</p>"
@@ -507,7 +507,7 @@
         "i3": {
           "type": "icon",
           "settings": {
-            "icon": "explore",
+            "icon": "link",
             "filled_icon": false,
             "title": "Attache sécurisée",
             "text": "<p>Solide, simple à clipser.</p>"
@@ -1278,7 +1278,7 @@
         "i1": {
           "type": "icon",
           "settings": {
-            "icon": "self_improvement",
+            "icon": "explore",
             "filled_icon": false,
             "title": "Explorez ensemble",
             "text": "<p>L'extérieur, enfin accessible.</p>"
@@ -1287,7 +1287,7 @@
         "i2": {
           "type": "icon",
           "settings": {
-            "icon": "bolt",
+            "icon": "shield",
             "filled_icon": false,
             "title": "Plus de tranquillité",
             "text": "<p>Sans craindre qu'il s'échappe.</p>"
@@ -1305,7 +1305,7 @@
         "i4": {
           "type": "icon",
           "settings": {
-            "icon": "group",
+            "icon": "public",
             "filled_icon": false,
             "title": "Partout",
             "text": "<p>Jardin, parc, voyage.</p>"
@@ -1541,7 +1541,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Peut-il s'en échapper ?",
-            "icon": "directions_walk",
+            "icon": "lock",
             "filled_icon": false,
             "row_content": "<p>Aucun harnais ne le garantit. Celui-ci se resserre quand il recule.</p>",
             "page": ""
@@ -1551,7 +1551,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Quelle taille choisir ?",
-            "icon": "all_inclusive",
+            "icon": "straighten",
             "filled_icon": false,
             "row_content": "<p>Mesurez le tour de poitrail. Entre deux, prenez la plus grande.</p>",
             "page": ""
@@ -1561,7 +1561,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "C'est confortable ?",
-            "icon": "pets",
+            "icon": "favorite",
             "filled_icon": false,
             "row_content": "<p>Coussinet néoprène, pression répartie sur le poitrail.</p>",
             "page": ""
@@ -1581,7 +1581,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "La laisse est incluse ?",
-            "icon": "info",
+            "icon": "link",
             "filled_icon": false,
             "row_content": "<p>Oui, avec mousqueton métal rotatif.</p>",
             "page": ""
@@ -1591,7 +1591,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Comment l'entretenir ?",
-            "icon": "link",
+            "icon": "local_laundry_service",
             "filled_icon": false,
             "row_content": "<p>Lavage à la main, séchage à l'air libre.</p>",
             "page": ""
