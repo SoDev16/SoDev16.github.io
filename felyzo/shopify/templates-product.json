@@ -6,7 +6,7 @@
         "titre": {
           "type": "heading",
           "settings": {
-            "title": "Profitez de chaque sortie. Gardez l'esprit tranquille.",
+            "title": "Plus de liberté pour lui.<br>Plus de tranquillité pour vous.",
             "title_highlight_color": "#c58a55",
             "heading_size": "h0"
           }
@@ -14,7 +14,7 @@
         "soustitre": {
           "type": "text",
           "settings": {
-            "text": "Avec FELYZO, offrez à votre chat le plaisir d'explorer tout en profitant d'un maintien enveloppant pensé pour des promenades plus sereines.",
+            "text": "<p>Le harnais pensé pour permettre à votre chat d'explorer le monde à vos côtés.</p>",
             "text_style": "body"
           }
         },
@@ -73,7 +73,7 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#59635b",
-            "text_1": "Un maintien adapté pour des sorties plus sereines.",
+            "text_1": "Plus de liberté pour votre chat. Plus de sérénité pour vous.",
             "text_2": "",
             "text_3": "",
             "icon_scale": 120,
@@ -104,7 +104,7 @@
             "desktop_text_size": 16,
             "alignment": "left",
             "text_color": "#203d2d",
-            "text_1": "Le harnais FELYZO accompagne votre chat dans ses sorties. Là où un harnais classique se relâche quand le chat recule, le coussinet poitrail se resserre légèrement sur ce mouvement au lieu de s'ouvrir. Trois points de réglage, anneaux en D métal, laisse incluse.",
+            "text_1": "FELYZO offre un maintien stable autour du poitrail tout en laissant votre chat libre de ses mouvements. Idéal pour les promenades, les sorties dans le jardin et les petites aventures du quotidien.",
             "text_2": "",
             "text_3": "",
             "icon_scale": 120,
@@ -419,7 +419,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Vous voulez lui faire découvrir le monde. Vous voulez aussi rester serein.",
+            "title": "Vous voulez le laisser explorer…",
             "title_highlight_color": "#294936",
             "heading_size": "h1"
           }
@@ -427,7 +427,7 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>Quand un chat a peur, il ne tire pas : il recule. Sur un harnais classique, les sangles se relâchent et les épaules passent.</p>",
+            "text": "<p>Mais votre chat n'est pas un petit chien.</p><p>Lorsqu'il a peur ou qu'il veut faire demi-tour, il peut reculer rapidement et tenter de se dégager d'un harnais mal adapté. Son corps souple lui permet parfois de sortir d'un harnais classique en quelques secondes.</p><p>C'est précisément pour cette raison que FELYZO a été pensé.</p>",
             "text_style": "body"
           }
         }
@@ -474,7 +474,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Ce qui change, concrètement.",
+            "title": "Une meilleure tenue.<br>Sans sacrifier le confort.",
             "title_highlight_color": "#294936",
             "heading_size": "h1"
           }
@@ -482,7 +482,7 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>Trois moments, trois réponses.</p>",
+            "text": "<p>FELYZO enveloppe le poitrail de votre chat pour offrir un maintien plus stable pendant ses déplacements. Votre chat peut marcher, explorer et découvrir son environnement tout en restant attaché à vous.</p>",
             "text_style": "body"
           }
         },
@@ -491,8 +491,8 @@
           "settings": {
             "icon": "checklist",
             "filled_icon": false,
-            "title": "Avant la sortie",
-            "text": "<p>Trois points de réglage pour l'ajuster à sa morphologie.</p>"
+            "title": "01 — Maintien du poitrail",
+            "text": "<p>Limite les mouvements permettant au chat de se dégager.</p>"
           }
         },
         "i2": {
@@ -500,8 +500,8 @@
           "settings": {
             "icon": "favorite",
             "filled_icon": false,
-            "title": "Pendant",
-            "text": "<p>Le coussinet se resserre s'il recule, au lieu de s'ouvrir.</p>"
+            "title": "02 — Répartition de la pression",
+            "text": "<p>Pour un meilleur confort.</p>"
           }
         },
         "i3": {
@@ -509,8 +509,8 @@
           "settings": {
             "icon": "explore",
             "filled_icon": false,
-            "title": "Partout",
-            "text": "<p>Jardin, parc, voyage : sous votre surveillance.</p>"
+            "title": "03 — Attache sécurisée",
+            "text": "<p>Solide et simple à utiliser.</p>"
           }
         },
         "img": {
@@ -560,7 +560,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Un chat est souple. Plus qu'on ne le croit.",
+            "title": "Parce que votre tranquillité compte autant que son envie d'explorer.",
             "title_highlight_color": "#294936",
             "heading_size": "h1"
           }
@@ -568,14 +568,14 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>C'est pour ça que la forme enveloppante et le bon réglage comptent plus que tout le reste.</p>",
+            "text": "<p>Un chat peut être curieux, imprévisible et particulièrement agile lorsqu'il découvre un nouvel environnement. C'est pourquoi le choix du harnais et son ajustement jouent un rôle essentiel dans la préparation d'une sortie.</p><p>FELYZO mise sur une forme enveloppante et des réglages adaptés pour accompagner votre chat pendant ses déplacements et vous offrir une expérience plus rassurante.</p>",
             "text_style": "body"
           }
         },
         "n": {
           "type": "caption",
           "settings": {
-            "caption": "Bonne taille, sangles ajustées, et restez à proximité pendant toute la promenade.",
+            "caption": "Choisissez toujours la bonne taille, ajustez correctement les sangles et restez à proximité de votre chat pendant toute la promenade.",
             "text_style": "subtitle",
             "text_size": "small"
           }
@@ -625,8 +625,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Pensé pour le recul",
-            "text": "<p>Le coussinet poitrail se resserre légèrement quand le chat tire en arrière, au lieu de s'ouvrir.</p>",
+            "title": "Maintien sécurisé",
+            "text": "<p>Reste bien en place pendant les mouvements.</p>",
             "link_label": "",
             "link": ""
           }
@@ -635,8 +635,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Trois points de réglage",
-            "text": "<p>Un cordon à stopper au cou et deux sangles latérales : le harnais suit sa croissance.</p>",
+            "title": "Confort optimal",
+            "text": "<p>Une conception pensée pour respecter les mouvements naturels.</p>",
             "link_label": "",
             "link": ""
           }
@@ -645,8 +645,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Coussinet néoprène",
-            "text": "<p>Rembourré et hypoallergénique, il répartit la pression au lieu de scier le cou.</p>",
+            "title": "Plus de liberté",
+            "text": "<p>Explorez le monde ensemble.</p>",
             "link_label": "",
             "link": ""
           }
@@ -655,18 +655,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Quincaillerie métal",
-            "text": "<p>Des anneaux en D métalliques, placés sur le coussinet pour qu'il garde toute son amplitude.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "r5": {
-          "type": "column",
-          "settings": {
-            "muted_autoplay": true,
-            "title": "Laisse incluse",
-            "text": "<p>Avec un mousqueton métal rotatif 360° qui ne vrille pas quand il tourne.</p>",
+            "title": "Des sorties plus sereines",
+            "text": "<p>Gardez votre chat près de vous.</p>",
             "link_label": "",
             "link": ""
           }
@@ -676,8 +666,7 @@
         "r1",
         "r2",
         "r3",
-        "r4",
-        "r5"
+        "r4"
       ],
       "settings": {
         "display_id": false,
@@ -752,9 +741,9 @@
         "display_id": false,
         "visibility": "always-display",
         "title": "Une nouvelle vie ensemble",
-        "title_highlight_color": "#1F3A2C",
+        "title_highlight_color": "#6D388B",
         "heading_size": "h1",
-        "text": "<p>Avant, la porte restait fermée. Aujourd'hui, la sortie est un moment partagé.</p>",
+        "text": "<p>Avant : « J'aimerais le laisser découvrir l'extérieur… mais j'ai peur qu'il s'échappe. »</p><p>Avec FELYZO : « Il explore. Je reste à proximité. Et nous profitons ensemble de la sortie. »</p>",
         "button_label": "",
         "link": "",
         "button_style_secondary": false,
@@ -828,8 +817,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "FELYZO au quotidien",
-        "title_highlight_color": "#1F3A2C",
+        "title": "Image/Video slider",
+        "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "color_scheme": "background-1",
         "type": "slide",
@@ -878,7 +867,7 @@
             "enable_mobile_position": false,
             "mobile_offset_x": 30,
             "mobile_offset_y": 30,
-            "title": "Maintien du poitrail",
+            "title": "01 — Maintien du poitrail",
             "text": "<p>Limite les mouvements permettant au chat de se dégager.</p>",
             "alignment": "center"
           }
@@ -891,8 +880,8 @@
             "enable_mobile_position": false,
             "mobile_offset_x": 30,
             "mobile_offset_y": 30,
-            "title": "Répartition de la pression",
-            "text": "<p>Le coussinet néoprène répartit la tension au lieu de scier le cou.</p>",
+            "title": "02 — Répartition de la pression",
+            "text": "<p>Pour un meilleur confort.</p>",
             "alignment": "center"
           }
         },
@@ -904,8 +893,8 @@
             "enable_mobile_position": false,
             "mobile_offset_x": 30,
             "mobile_offset_y": 30,
-            "title": "Attache sécurisée",
-            "text": "<p>Anneaux en D métalliques, solides et simples à utiliser.</p>",
+            "title": "03 — Attache sécurisée",
+            "text": "<p>Solide et simple à utiliser.</p>",
             "alignment": "center"
           }
         }
@@ -919,8 +908,8 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Une meilleure tenue. Sans sacrifier le confort.",
-        "title_highlight_color": "#1F3A2C",
+        "title": "Une meilleure tenue.<br>Sans sacrifier le confort.",
+        "title_highlight_color": "#6D388B",
         "heading_size": "h1",
         "text": "<p>FELYZO enveloppe le poitrail de votre chat pour offrir un maintien plus stable pendant ses déplacements.</p>",
         "button_label": "",
@@ -976,7 +965,7 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>Il découvre. Vous accompagnez. Chacun à son rythme.</p>",
+            "text": "<p>Imaginez votre chat découvrant calmement un jardin, observant les oiseaux depuis une terrasse ou explorant un nouvel endroit à vos côtés.</p><p>Vous avancez ensemble, à votre rythme. Il découvre. Vous accompagnez. Et vous profitez pleinement de ce moment.</p>",
             "text_style": "body"
           }
         }
@@ -1024,8 +1013,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Dans le jardin",
-            "text": "<p>Laissez votre chat découvrir les odeurs, les sons et les sensations de l'extérieur sous votre surveillance.</p>",
+            "title": "Chat d'intérieur",
+            "text": "<p>Pour découvrir progressivement le monde extérieur.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1034,8 +1023,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Pendant les promenades",
-            "text": "<p>Accompagnez-le dans ses premières sorties ou dans ses promenades régulières.</p>",
+            "title": "Chat aventurier",
+            "text": "<p>Pour les promenades dans le jardin, le parc ou la nature.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1044,8 +1033,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "En voyage",
-            "text": "<p>Gardez un accessoire pratique à portée de main pour les déplacements et les nouvelles destinations.</p>",
+            "title": "Voyage",
+            "text": "<p>Pour garder votre chat sous contrôle pendant les déplacements.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1054,8 +1043,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "Lors de nouvelles expériences",
-            "text": "<p>Habituez progressivement votre chat à découvrir de nouveaux environnements avec vous.</p>",
+            "title": "Premières sorties",
+            "text": "<p>Pour commencer progressivement l'apprentissage de la promenade.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1070,7 +1059,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Pour toutes vos sorties",
+        "title": "FELYZO est fait pour les chats curieux.",
         "title_highlight_color": "#294936",
         "heading_size": "h1",
         "button_label": "",
@@ -1140,8 +1129,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "1. Il le découvre",
-            "text": "<p>Laissez votre chat découvrir le harnais à la maison, sans le lui mettre.</p>",
+            "title": "01 — Enfilez",
+            "text": "<p>Placez le harnais autour du poitrail de votre chat.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1150,8 +1139,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "2. Quelques minutes",
-            "text": "<p>Faites-lui porter quelques minutes à l'intérieur, dans un moment calme.</p>",
+            "title": "02 — Ajustez",
+            "text": "<p>Ajustez les sangles pour obtenir un maintien confortable et stable.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1160,28 +1149,8 @@
           "type": "column",
           "settings": {
             "muted_autoplay": true,
-            "title": "3. Récompensez-le",
-            "text": "<p>Une friandise ou un moment de jeu, pour associer le harnais à quelque chose de positif.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e4": {
-          "type": "column",
-          "settings": {
-            "muted_autoplay": true,
-            "title": "4. Allongez la durée",
-            "text": "<p>Augmentez progressivement le temps de port, sans jamais forcer.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "e5": {
-          "type": "column",
-          "settings": {
-            "muted_autoplay": true,
-            "title": "5. Une première sortie",
-            "text": "<p>Commencez par une sortie courte et calme, dans un endroit familier.</p>",
+            "title": "03 — Attachez",
+            "text": "<p>Fixez la laisse et laissez votre chat découvrir progressivement son nouvel équipement.</p>",
             "link_label": "",
             "link": ""
           }
@@ -1190,14 +1159,12 @@
       "block_order": [
         "e1",
         "e2",
-        "e3",
-        "e4",
-        "e5"
+        "e3"
       ],
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Chaque chat a son rythme",
+        "title": "En 3 étapes",
         "title_highlight_color": "#294936",
         "heading_size": "h1",
         "button_label": "",
@@ -1304,7 +1271,7 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>Des accessoires simples, pensés pour les chats et pour ceux qui les accompagnent.</p>",
+            "text": "<p>FELYZO s'adresse aux propriétaires qui souhaitent partager davantage de moments avec leur chat, en intérieur comme en extérieur. Nous sélectionnons des accessoires pensés pour être pratiques, confortables et simples à intégrer dans votre quotidien.</p><p>Notre objectif est de vous aider à préparer vos sorties avec plus de confiance, afin que vous puissiez vous concentrer sur l'essentiel : votre compagnon et les moments que vous partagez.</p>",
             "text_style": "body"
           }
         },
@@ -1313,8 +1280,8 @@
           "settings": {
             "icon": "self_improvement",
             "filled_icon": false,
-            "title": "Plus de sérénité pour le propriétaire",
-            "text": ""
+            "title": "Explorez ensemble",
+            "text": "<p>Offrez à votre chat l'occasion de découvrir l'extérieur.</p>"
           }
         },
         "i2": {
@@ -1322,8 +1289,8 @@
           "settings": {
             "icon": "bolt",
             "filled_icon": false,
-            "title": "Une expérience simple au quotidien",
-            "text": ""
+            "title": "Plus de tranquillité",
+            "text": "<p>Gardez le contrôle sans constamment craindre qu'il s'échappe.</p>"
           }
         },
         "i3": {
@@ -1331,8 +1298,8 @@
           "settings": {
             "icon": "pets",
             "filled_icon": false,
-            "title": "Des accessoires pensés pour les chats",
-            "text": ""
+            "title": "Confort au quotidien",
+            "text": "<p>Une conception pensée pour accompagner ses mouvements.</p>"
           }
         },
         "i4": {
@@ -1340,8 +1307,8 @@
           "settings": {
             "icon": "group",
             "filled_icon": false,
-            "title": "Des moments à partager ensemble",
-            "text": ""
+            "title": "Pour toutes les aventures",
+            "text": "<p>Jardin, parc, voyage ou promenade : FELYZO vous accompagne partout.</p>"
           }
         },
         "img": {
@@ -1426,7 +1393,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "title": "Ce qu'en disent nos clients",
+        "title": "Ils ont adopté FELYZO",
         "title_highlight_color": "#294936",
         "heading_size": "h1",
         "text": "",
@@ -1573,60 +1540,60 @@
         "f1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Est-ce que le harnais tient vraiment ?",
+            "heading": "Mon chat peut-il réussir à sortir du harnais ?",
             "icon": "directions_walk",
             "filled_icon": false,
-            "row_content": "<p>Il est conçu pour le recul, le mouvement par lequel les chats s'échappent. Le coussinet poitrail se resserre au lieu de s'ouvrir. Les trois points de réglage font le reste.</p>",
+            "row_content": "<p>Aucun harnais ne peut garantir qu'un chat ne pourra jamais se dégager. FELYZO est conçu pour offrir un maintien stable, notamment lorsque le chat tente de reculer. Un ajustement correct est essentiel.</p>",
             "page": ""
           }
         },
         "f2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Un chat peut-il s'en dégager ?",
+            "heading": "Comment choisir la taille ?",
             "icon": "all_inclusive",
             "filled_icon": false,
-            "row_content": "<p>Aucun harnais ne peut le garantir. Bonne taille, sangles ajustées et surveillance constante restent essentiels.</p>",
+            "row_content": "<p>Utilisez le tour de poitrail indiqué dans le guide des tailles et mesurez votre chat avant de commander.</p>",
             "page": ""
           }
         },
         "f3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Mon chat n'a jamais porté de harnais.",
+            "heading": "Est-ce confortable ?",
             "icon": "pets",
             "filled_icon": false,
-            "row_content": "<p>Commencez à la maison, quelques minutes, en séances courtes et positives. Sortez quand il l'aura oublié.</p>",
+            "row_content": "<p>FELYZO est conçu pour répartir la tension autour du poitrail et accompagner les mouvements naturels du chat.</p>",
             "page": ""
           }
         },
         "f4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Comment choisir la taille ?",
+            "heading": "Mon chat n'a jamais porté de harnais.",
             "icon": "schedule",
             "filled_icon": false,
-            "row_content": "<p>Mesurez le tour de poitrail juste derrière les pattes avant. Entre deux tailles, prenez la plus grande : les sangles se resserrent, elles ne s'allongent pas.</p>",
+            "row_content": "<p>Commencez à l'intérieur pendant quelques minutes, puis augmentez progressivement la durée avant les premières sorties.</p>",
             "page": ""
           }
         },
         "f5": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Que contient le colis ?",
+            "heading": "Peut-il être utilisé avec une laisse ?",
             "icon": "info",
             "filled_icon": false,
-            "row_content": "<p>Le harnais dans la taille choisie et une laisse assortie, avec mousqueton métal rotatif 360°.</p>",
+            "row_content": "<p>Oui, avec une laisse adaptée et correctement attachée au point prévu à cet effet.</p>",
             "page": ""
           }
         },
         "f6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Puis-je le laisser attaché sans surveillance ?",
+            "heading": "Comment l'entretenir ?",
             "icon": "link",
             "filled_icon": false,
-            "row_content": "<p>Non, jamais.</p>",
+            "row_content": "<p>Suivre les instructions d'entretien correspondant aux matériaux et à la version réellement vendue.</p>",
             "page": ""
           }
         }
@@ -1673,7 +1640,7 @@
         "h": {
           "type": "heading",
           "settings": {
-            "title": "Le monde l'attend. Découvrez-le ensemble.",
+            "title": "Le monde est grand.<br>Laissez-le le découvrir.",
             "title_highlight_color": "#c58a55",
             "heading_size": "h1"
           }
@@ -1681,13 +1648,13 @@
         "t": {
           "type": "text",
           "settings": {
-            "text": "<p>Une sortie de plus, une inquiétude de moins.</p>"
+            "text": "<p>Plus de liberté pour votre chat. Plus de sérénité pour vous.</p>"
           }
         },
         "b": {
           "type": "button",
           "settings": {
-            "button_label": "Commencer l'aventure FELYZO",
+            "button_label": "Découvrir FELYZO →",
             "button_link": "#shopify-section-main",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -1732,30 +1699,24 @@
       "disabled": true,
       "settings": {
         "visibility": "always-display",
-        "title": "Regardez FELYZO en action",
-        "title_highlight_color": "#1F3A2C",
         "heading_size": "h1",
-        "description": "Découvrez comment installer le harnais et voyez votre chat profiter de ses sorties en toute sérénité.",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "title": "Regardez FELYZO en action",
+        "description": "Découvrez comment installer le harnais et voyez votre chat profiter de ses sorties en toute sérénité."
       }
     },
     "rappel_offre": {
       "type": "featured-product",
       "settings": {
         "visibility": "always-display",
-        "product": "harnais-felyzo-le-harnais-pense-pour-les-explorateurs",
-        "color_scheme": "background-2",
-        "media_size": "medium",
-        "media_position": "left",
-        "desktop_padding_top": 48,
-        "desktop_padding_bottom": 48,
-        "mobile_padding_top": 36,
-        "mobile_padding_bottom": 36
+        "product": "harnais-felyzo-le-harnais-pense-pour-les-explorateurs"
       },
       "blocks": {
+        "entete": {
+          "type": "text",
+          "settings": {
+            "text_1": "PRÊT POUR SA PREMIÈRE AVENTURE ?"
+          }
+        },
         "titre": {
           "type": "title",
           "settings": {}
@@ -1774,6 +1735,7 @@
         }
       },
       "block_order": [
+        "entete",
         "titre",
         "prix",
         "variantes",
@@ -1784,11 +1746,11 @@
   "order": [
     "hero",
     "main",
+    "rassure",
     "emotionnel",
     "solution",
     "product_features_4yAHgh",
     "maintien",
-    "rassure",
     "video_demo",
     "pourquoi",
     "image_slider_pq3F4R",
